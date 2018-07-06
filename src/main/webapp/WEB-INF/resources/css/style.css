@@ -1,0 +1,167 @@
+
+html, body {
+    margin:0;
+    padding:0;
+    height:100%;
+}
+
+body {
+    color: #0B0904;
+    font-family: "Arial Rounded", Arial, serif;
+    font-size: 16px;
+    background-color: #FDFEFB;
+}
+
+button {
+    color: white;
+    font-family: "Arial Rounded", Arial, serif;
+    font-size: 16px;
+    border: none;
+    background-color: #be0f34;
+    /*position: absolute;*/
+    /*right: 0;*/
+    /*left: 0;*/
+    /*margin: auto;*/
+}
+
+li {
+    list-style-image:url(../elements/mini.jpg);
+}
+
+img {
+    position: relative;
+}
+
+
+#container {
+    min-height:100%;
+    position:relative;
+}
+
+.hedonism {
+    color: #be0f34;
+    font-family: "Arial Rounded", Arial, serif;
+    font-size: 12px;
+}
+
+.footer {
+    color: #0B0904;
+    font-family: "Arial Rounded", Arial, serif;
+    font-size: 10px;
+    text-align: center;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;
+}
+
+.emptyuser {
+    color: #be0f34;
+    font-family: "Arial Rounded", Arial, serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+
+.mx-auto {
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    left: 250px;
+    top: 350px;
+}
+
+.site {
+    height: 300px;
+    width: 500px;
+    position: relative;
+    top: -100px;
+    right: 0;
+    bottom: 600px;
+    left: 0;
+    text-align: center;
+}
+
+.inside {
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    text-align: center;
+}
+
+.user {
+    color: #be0f34;
+    font-weight: bold;
+}
+
+.delete {
+    font-weight: bold;
+    text-align: center;
+    color: #be0f34;
+}
+
+.describe {
+    font-weight: bold;
+    color: #be0f34;
+}
+
+.error {
+    color: #822B40;
+}
+
+.form {
+    text-align: center;
+}
+
+.list {
+    float: left;
+}
+
+.photo {
+    position: relative;
+    right: 400px;
+    float: left;
+}
+
+.place {
+    text-align: left;
+    float: right;
+}
+
+.types {
+    float: left;
+}
+
+a.inside {
+    font-weight: bold;
+}
+
+#join {
+    font-weight: bold;
+    text-align: center;
+}
+
+#helloright {
+    float: left;
+}
+
+#place {
+    font-weight: bold;
+}
+
+
+
+
