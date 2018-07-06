@@ -2,8 +2,9 @@
 
 <h4><b>Aplikacja dla ludzi, którzy chcą jeść lepiej.</b></h4>
 <hr/>
-
-Ma być sprawdzonym przewodnikiem po lokalach gastronomicznych w Europie.
+Aplikacja ma być sprawdzonym przewodnikiem po lokalach      
+gastronomicznych w Europie, gdzie rekomendacjami dzielą się osoby 
+o podobnym, hedonistycznym, podejściu do tematu jedzenia.
 
 Pomysł tworzenia kolejnego portalu w stylu ‘tripadvisor’ wynika ze zbyt wielu porażek
 związanych z korzystaniem z tegoż właśnie.
